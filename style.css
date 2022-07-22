@@ -1,0 +1,102 @@
+.navbar{
+    background-color: blueviolet;;
+    width: 100%;
+}
+
+
+
+.fa-bars{
+    font-size: 30px !important;
+    color: #fff;
+   
+}
+
+.navbar-nav li a{
+    text-align: right;
+}
+
+.header1{
+    background-color: blueviolet;
+    position: relative;  
+    
+}
+
+.play{
+    width: 40px;
+}
+
+
+.sub-img1{
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.btn-services{
+    background-color: blueviolet;
+}
+
+.btn-services:hover{
+    color: bisque;
+    background-color: rgb(74, 15, 128);
+}
+
+.list-width{
+    max-width: 360px;
+}
+
+.why-choose-us{
+    background:#f8f9fa;
+    min-height: 70vh;
+}
+
+.what-we-do{
+    min-height: 80vh;
+}
+
+.img-width{
+    width: 60px;
+    height: 60px;
+}
+
+.what-clients-say{
+    min-height: 50vh;
+}
+
+.left,
+.right{
+    border-left: 3px solid blueviolet !important
+}
+
+.find-us-on-social-media{
+    background:#f8f9fa;
+}
+
+.wawe2,
+.footer{
+    background-color:  blueviolet;;
+}
+
+.sub-btn{
+    background-color:rgb(101, 48, 151) ;
+    transition: 0.7s;
+    border: none;
+}
+
+.sub-btn:hover{
+    background-color: rgb(74, 15, 128);
+}
+
+.efect{
+    transition: 0.7s;
+}
+
+.efect:hover{
+    transform: translateY(-20%);
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
